@@ -1,4 +1,4 @@
-# Majesto discord bot
+# Majesto discord botasdf
 ## commands: 
 ### -majesto  
 sends a message with all the commands  
